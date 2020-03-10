@@ -4,6 +4,8 @@
 */
 function mostrar()
 {
-
+	var datazo;
+	datazo=prompt("lamercaestabien");
+	document.getElementById('elNombre').value=datazo;
 }
 
